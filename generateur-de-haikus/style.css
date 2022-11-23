@@ -1,0 +1,31 @@
+body {
+    background-size:cover;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align:center;
+}
+
+#titre {
+    background-color: rgba(0, 0, 0, 0.3);
+    opacity: 1;
+    display:inline-block;
+    padding:.2em 1em;
+
+}
+
+#divHaiku {
+    border: 1px solid black;
+    font-size:1.2em;
+}
+
+#generateButton {
+    color:white;
+    border-radius: 15px;
+    cursor: pointer;
+    font-size: 1.1em;
+}
+
+.footer {
+    background-color: rgba(0, 0, 0, 0.2);
+    font-size: 0.9em;
+    padding:.2em 1em;
+}

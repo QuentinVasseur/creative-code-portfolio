@@ -1,0 +1,120 @@
+{
+    "first": [
+        {
+            "text": "Sous des perles d'eau",
+            "theme": "rain"
+        },
+        {
+            "text": "Entre chien et loup",
+            "theme": "night"
+        },
+        {
+            "text": "Eclat vespéral",
+            "theme": "evening"
+        },
+        {
+            "text": "Les étoiles pleurent",
+            "theme": "night"
+        },
+        {
+            "text": "Cerné par les dunes",
+            "theme": "beach"
+        },
+        {
+            "text": "En bord d'océan",
+            "theme": "beach"
+        },
+        {
+            "text": "Voile gris d'automne",
+            "theme": "fall"
+        },
+        {
+            "text": "Une mer de feuilles",
+            "theme": "forest"
+        },
+        {
+            "text": "Un soupçon de calme",
+            "theme": "fall"
+        },
+        {
+            "text": "Au zénith cuisant",
+            "theme": "sun"
+        },
+        {
+            "text": "Regard vers les cieux",
+            "theme": "sun"
+        }
+    ],
+    "second": [
+        {
+            "text": "Une fleur se fane en douce"
+        },
+        {
+            "text": "J'aspire au calme et respire"
+        },
+        {
+            "text": "Un animal prend la fuite"
+        },
+        {
+            "text": "Un son lointain, indistinct"
+        },
+        {
+            "text": "J'entends les rires d'antan",
+            "theme":""
+        },
+        {
+            "text": "Elle retient son souffle"
+        },
+        {
+            "text": "Le vent siffle en se gaussant"
+        },
+        {
+            "text": "Ma fatigue s'alourdit"
+        },
+        {
+            "text": "Un vieillard et son chien passent"
+        },
+        {
+            "text": "Ma poitrine croît, décroît"
+        },
+        {
+            "text": "Comme une légéreté"
+        }
+
+    ],
+    "third": [
+        {
+            "text": "Pour l'éternité"
+        },
+        {
+            "text": "Jusqu'au firmament"
+        },
+        {
+            "text": "S'en souviendra-t-on ?"
+        },
+        {
+            "text": "Sans l'ombre d'un doute"
+        },
+        {
+            "text": "Fugace existence"
+        },
+        {
+            "text": "L'a-t-il oublié ?"
+        },
+        {
+            "text": "Les dieux s'en repaissent"
+        },
+        {
+            "text": "Mais qui s'en soucie ?"
+        },
+        {
+            "text": "Entre deux silences"
+        },
+        {
+            "text": "S'ensuit un soupir"
+        },
+        {
+            "text": "Un ccœur guilleret"
+        }
+    ]
+}
